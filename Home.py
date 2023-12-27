@@ -1,8 +1,8 @@
 import streamlit as st
-from streamlit_extras.app_logo import add_logo  # Import the app_logo function
+#from streamlit_extras.app_logo import add_logo  # Import the app_logo function
 
 #Use the app_logo function to display the logo
-add_logo("pictures/DarkoLogo.png", height=185)
+#add_logo("pictures/DarkoLogo.png", height=185)
 
 # Rest of your Streamlit code
 st.title("Daily Adjusted and Regressed Kalman Optimized projections | DARKO")
