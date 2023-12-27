@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from streamlit_extras.app_logo import add_logo
+#from streamlit_extras.app_logo import add_logo
 import pandas as pd
 import datetime as dt
 import matplotlib.pyplot as plt
@@ -17,7 +17,7 @@ secrets = st.secrets["gcp_service_account"]
 st.set_page_config(layout="wide")
 
 # Use the app_logo function to display the logo
-add_logo("pictures/DarkoLogo.png", height=185)
+#add_logo("pictures/DarkoLogo.png", height=185)
 
 # Current Player Skill Projections
 st.header("Version: 2023-11-24")
