@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import numpy as np
 from google.cloud import bigquery
-import db_dtypes
+#import db_dtypes
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'api_keys/pristine-nebula-408601-132510f1855a.json'
 
