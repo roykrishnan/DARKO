@@ -6,7 +6,7 @@ add_logo("pictures/DarkoLogo.png", height=185)
 
 # Rest of your Streamlit code
 st.title("Daily Adjusted and Regressed Kalman Optimized projections | DARKO")
-st.subheader('By Kostya and Andrew', divider='grey')
+st.subheader('By Konstantin Medvedovsky, Andrew Patton, and Roy Krishnan', divider='grey')
 
 with st.expander("**What is DARKO?**"):
     st.write("**DARKO is a machine learning-driven basketball player box-score score projection system**.") 
