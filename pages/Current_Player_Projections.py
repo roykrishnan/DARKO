@@ -9,7 +9,7 @@ import numpy as np
 from google.cloud import bigquery
 #import db_dtypes
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'api_keys/pristine-nebula-408601-132510f1855a.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'DONT LEAK THIS'
 
 #api key instead:
 secrets = st.secrets["gcp_service_account"]
