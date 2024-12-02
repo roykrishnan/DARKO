@@ -1,41 +1,22 @@
 [gcp_service_account]
 type = "service_account"
-project_id = "pristine-nebula-408601"
-private_key_id = "132510f1855a8b153e24e8ca054da4bb1d1a9b8e"
+project_id = "SECRETS"
+private_key_id = "CAN U IMAGINE IF NBA FRONT OFFICES HAD API ACCESS TO THIS"
 private_key = """
 -----BEGIN PRIVATE KEY-----
-MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOkmvOTdmuJrM2
-GlTFTIF95/r/mcMNBjVk/k1z1x3K/o94/jKBDiccWqwC1pzx13djHJ/0APh5G1l8
-bfxBABcjej3B4p3yW+aW8gJCRZtWqM7KYq2gFxandI7zweiB9aZRbsf0C4rSnwOF
-xQ4ixajpZZrr7Iw4MaG6IhyPtbxkGi1IXJXsNPEDqLbOJ4SkKBxroh3xpqrz7zlM
-riGZmjgCdy546Yr6OSIOTKdY+57xVWz/I2LYG3IftgDLCPaU7zQqKyQlQh0SPj84
-Jpp/O2Qok4wSxOObsiDTfODVLuXn6/lFWRthP0eYmz+9BRCrGBiquOGLwj3YcoZO
-5SBDoXv9AgMBAAECggEAY4sBckfnltlFUNP9d5n3aJHKTTNuX69XOZSmBCVsUO68
-eoScF76XMD2tWCzNMmkvOc6Icc+p7Mo2JBToEvaVL95vNigbDrgkdSan2gGq6mas
-R7CnlFar7wPnAyW1AjM681DcAAkz220PCH494pm3XMk+j2PM6iNYmNZpRwM/hkiM
-/4kzHdthPpQW1OLFNahfey7bipuhInsqZNOhC3D5CAGqlCzhaYk9zb/nMNkBpDzc
-xLpp6nJm8xFMmTMmy7fTSRm2vCI9+5EFu+GS6nsVIPl03oGok/Pn9hhHWGtlwdkb
-Jc8UmJ+B5WKl94aPQzOTMyH16q47mvp7FK3MJ3jIDQKBgQDzUY1pwBPR35qjsls4
-6dSzYMtF3N7GDULPIuaVMuNR43ZsKTXgZAgSfoUz8R3hIQTZinZYP4bXdC8nLcfv
-WZAridop7vfLQU3qwS06JNXT5qdv36Olz1h5TRORnsL3cPWlZYaD38YDrgMvN995
-fN1B+D3TdIYELEmPah+tgE5uHwKBgQDZVpTqoj9+mV1Er5m6m7ZaTQXrLOtmsAT7
-v+F06su2Lnrjtbz5vWEo7QKcIgvgrR81pZAGOEbnU3OXsv8oZStn2YNkDAylqumw
-RpHjDlphVKJ3lrF7Os8EClhOqe+ptuu3e7W/NDSDTqjuOLvtwY9sSDtyHYY/jDib
-2i+GzqpaYwKBgDRkuy6qTZpDq+jT3xDCSSrXDO5eQRokgN5ZhY1bB9f6QuXHefJ3
-l8VjuQsWQHjZw1GUnychhseeHQkysnq3rnOxm2isLG94AG8sabC7fc/DOwq7/WEW
-5NY54pzYsuLVUA/tbKm45cqlDcp9HYHrgTlTWvzNeo4reyuGjouttTXBAoGBANfO
-XDIbhza7LFyOjPQ5t7k0sALUaK5fa6Na5ZEFr9+niYjgJdRJ0tcjeKr2N5sR7GKF
-klxKt0TtnWLtbuV6h74nwoquWESMUF0jxaqSzvXEZ0qeDH+TZonZh9Qcc4iuxKI9
-qbtBKD+V9LIPDbRItZRMqRJn9KzXHELNRNH0Fj2HAoGBAJiilTV7GZ2DBJuHxgVi
-DG7eIADneD+tPWjWMBwoPe9Op22Zu7nXodv4tThXIvPocm+D587VfPkR9tyBjDVG
-5PFdY7i1RPPD9iAVS35wxCXttz5TUFcI9RSv1pn7HeMgNLbXSeNX7EnY9v7se4zU
-du1iuWlKnkXhEsamFDKNabRv
+The FitnessGram™ Pacer Test is a multistage aerobic capacity test that 
+progressively gets more difficult as it continues. The 20 meter pacer test will begin in 30 seconds. 
+Line up at the start. The running speed starts slowly, but gets faster each minute after you hear this signal. 
+[beep] A single lap should be completed each time you hear this sound. [ding] Remember to run in a straight line, 
+and run as long as possible. The second time you fail to complete a lap before the sound, your test is over. 
+The test will begin on the word start. On your mark, get ready, start.
+
 -----END PRIVATE KEY-----
 """
-client_email = "darko-active@pristine-nebula-408601.iam.gserviceaccount.com"
-client_id = "111061535209786968076"
-auth_uri = "https://accounts.google.com/o/oauth2/auth"
-token_uri = "https://oauth2.googleapis.com/token"
-auth_provider_x509_cert_url = "https://www.googleapis.com/oauth2/v1/certs"
-client_x509_cert_url = "https://www.googleapis.com/robot/v1/metadata/x509/darko-active%40pristine-nebula-408601.iam.gserviceaccount.com"
+client_email = "replace"
+client_id = "replace_local"
+auth_uri = "oauth_local"
+token_uri = "token_global"
+auth_provider_x509_cert_url = "google apis"
+client_x509_cert_url = "g-service
 universe_domain = "googleapis.com"
